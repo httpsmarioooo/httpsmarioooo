@@ -15,6 +15,12 @@ My expertise includes software development, UI/UX design, animation, and video e
 I thrive on challenges and enjoy turning complex concepts into user-friendly solutions that not only meet but exceed expectations. Let’s create something amazing together!
 
 
+![Banner Contact me](contactme.png)
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/engineermario1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmariotp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
 ![Banner Skills](skills.png) 
 
 1. Effective communication
@@ -27,9 +33,7 @@ I thrive on challenges and enjoy turning complex concepts into user-friendly sol
 8. Organization
 9. Leadership
 
-
 ![Banner Technologies](technologies.png) 
-
 
 <h3 align="left">📋 Languages</h3>
 
@@ -48,9 +52,6 @@ I thrive on challenges and enjoy turning complex concepts into user-friendly sol
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
 
 <h3 align="left"> 📚 Frameworks</h3>
 
@@ -72,11 +73,6 @@ I thrive on challenges and enjoy turning complex concepts into user-friendly sol
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br></br>
-
-![Banner Contact me](thanku1.png)
-
 
 
 ![Banner Thank u](thanku1.png)
