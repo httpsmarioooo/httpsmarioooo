@@ -6,7 +6,7 @@
  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Memoji's photo" src="memoji.png" />
 
 
-![Banner Skills](skills.png) 
+![Banner Skills](aboutme.png) 
 
 A passionate Multimedia Engineer with a flair for blending technology and creativity. I specialize in programming, graphic design, and multimedia production, striving to create innovative and engaging digital experiences.
 
@@ -14,6 +14,18 @@ My expertise includes software development, UI/UX design, animation, and video e
 
 I thrive on challenges and enjoy turning complex concepts into user-friendly solutions that not only meet but exceed expectations. Let’s create something amazing together!
 
+
+![Banner Skills](skills.png) 
+
+1. Effective communication
+2. Teamwork
+3. Adaptability
+4. Creativity
+5. Problem-solving
+6. Time management
+7. Critical thinking
+8. Organization
+9. Leadership
 
 
 ![Banner Skills](technologies.png) 
