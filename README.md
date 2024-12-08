@@ -3,11 +3,18 @@
 
 <h1>👨‍💻 I am a multimedia engineer, skilled in both programming and graphic design</h1>
 
+ <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Memoji's photo" src="memoji.png" />
 
 
 ![Banner Skills](skills.png) 
 
-<br></br>
+A passionate Multimedia Engineer with a flair for blending technology and creativity. I specialize in programming, graphic design, and multimedia production, striving to create innovative and engaging digital experiences.
+
+My expertise includes software development, UI/UX design, animation, and video editing. Beyond technical skills, I pride myself on being a problem-solver, a team player, and someone who communicates effectively to bring ideas to life.
+
+I thrive on challenges and enjoy turning complex concepts into user-friendly solutions that not only meet but exceed expectations. Let’s create something amazing together!
+
+
 
 ![Banner Skills](technologies.png) 
 
