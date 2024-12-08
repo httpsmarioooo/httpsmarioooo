@@ -6,7 +6,7 @@
  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Memoji's photo" src="memoji.png" />
 
 
-![Banner Skills](aboutme.png) 
+![Banner Aboutme](aboutme.png) 
 
 A passionate Multimedia Engineer with a flair for blending technology and creativity. I specialize in programming, graphic design, and multimedia production, striving to create innovative and engaging digital experiences.
 
@@ -28,7 +28,7 @@ I thrive on challenges and enjoy turning complex concepts into user-friendly sol
 9. Leadership
 
 
-![Banner Skills](technologies.png) 
+![Banner Technologies](technologies.png) 
 
 
 <h3 align="left">📋 Languages</h3>
@@ -75,4 +75,9 @@ I thrive on challenges and enjoy turning complex concepts into user-friendly sol
 
 <br></br>
 
-![Banner thanku](thanku1.png)
+![Banner Contact me](thanku1.png)
+
+
+
+![Banner Thank u](thanku1.png)
+
