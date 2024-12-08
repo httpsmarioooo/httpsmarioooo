@@ -1,13 +1,7 @@
 
-![Banner apertura]
-(Banner1.png)
+![Banner apertura](Banner1.png)
 
-
-
-
-
-<h1>Hi 👋, I'm Carlos Mario</h1>
-<h3>I am a multimedia engineer, skilled in both programming and graphic design from Cali - Colombia</h3>
+<h1>👨‍💻 I am a multimedia engineer, skilled in both programming and graphic design</h1>
 
 
 
