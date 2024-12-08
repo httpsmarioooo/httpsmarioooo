@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Carlos Mario</h1>
-<h3 align="center">A passionate frontend developer from Cali - Colombia</h3>
+
+![Banner apertura]
+(Banner1.png)
+
+
+
+
+
+<h1>Hi 👋, I'm Carlos Mario</h1>
+<h3>I am a multimedia engineer, skilled in both programming and graphic design from Cali - Colombia</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
