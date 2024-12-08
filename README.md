@@ -68,7 +68,7 @@ I thrive on challenges and enjoy turning complex concepts into user-friendly sol
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 
 
-<h3>Other</h3>
+<h3>⛓️‍💥 Other</h3>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
