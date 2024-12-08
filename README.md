@@ -3,10 +3,9 @@
 
 <h1>👨‍💻 I am a multimedia engineer, skilled in both programming and graphic design</h1>
 
-<br></br>
+
 
 ![Banner About Me](skills.png) 
-
 
 
 
