@@ -4,23 +4,9 @@
 <h1>👨‍💻 I am a multimedia engineer, skilled in both programming and graphic design</h1>
 
 
+### 🎯 Skills
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🛠️ Technologies
 
 
 <h3 align="left">Connect with me:</h3>
